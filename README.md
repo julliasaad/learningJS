@@ -2,7 +2,7 @@
 
 # Criando repositório local
 
-  1. $git remote add origin <url>
+  1. $git remote add origin "url"
   2. $git pull origin master
 
 # Subindo no Github
